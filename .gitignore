@@ -1,0 +1,9 @@
+credentials_calendar.json
+credentials_sheets.json
+google_sheets_token.json
+settings.py
+token.json
+__pycache__
+.pytest_cache
+venv
+
